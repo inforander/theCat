@@ -1,4 +1,4 @@
-package com.algaworks.cobranca;
+package com.itau.thecat;
 
 import static org.junit.Assert.assertNotNull;
 
